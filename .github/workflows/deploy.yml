@@ -28,7 +28,7 @@ jobs:
           url="https://github.com/lzanini/mdbook-katex/releases/download/0.9.0-binaries/mdbook-katex-v0.9.0-x86_64-unknown-linux-gnu.tar.gz"
           # mkdir mdbook-katex
           curl -sSL $url | tar -xz --directory=.
-          # echo `pwd`/mdbook-katex >> $GITHUB_PATH
+          echo `pwd` >> $GITHUB_PATH
       - name: Build Book
         run: |
           # This assumes your book is in the root of your repository.

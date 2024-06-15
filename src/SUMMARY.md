@@ -18,3 +18,12 @@
 	- [Discrete-time Fourier transform](discrete-time-signals-in-the-frequency-domain/discrete-time-fourier-transform.md)
 	- [Discrete-time Fourier transform theorems](discrete-time-signals-in-the-frequency-domain/discrete-time-fourier-transform-theorems.md)
 	- [Digital processing of continuous-time signals](discrete-time-signals-in-the-frequency-domain/digital-processing-of-continuous-time-signals.md)
+
+# Discrete-time systems
+
+- [Discrete-time systems]()
+	- [Discrete-time systems]()
+	- [Classification of discrete-time systems]()
+	- [LTI discrete-time systems](discrete-time-systems/LTI-discrete-time-systems.md)
+	- [Interconnection schemes]()
+	- [Phase and group delay](discrete-time-systems/phase-and-group-delay.md)

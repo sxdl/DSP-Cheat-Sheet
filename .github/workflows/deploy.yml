@@ -22,6 +22,13 @@ jobs:
           mkdir mdbook
           curl -sSL $url | tar -xz --directory=./mdbook
           echo `pwd`/mdbook >> $GITHUB_PATH
+      - name: Install mdbook-katex
+        run: |
+          tag=$(curl 'https://api.github.com/repos/lzanini/mdbook-katex/releases/latest' | jq -r '.tag_name')
+          url="https://github.com/lzanini/mdbook-katex/releases/download/${tag}/mdbook-katex-${tag}-x86_64-unknown-linux-gnu.tar.gz"
+          mkdir mdbook-katex
+          curl -sSL $url | tar -xz --directory=./mdbook-katex
+          echo `pwd`/mdbook-katex >> $GITHUB_PATH
       - name: Build Book
         run: |
           # This assumes your book is in the root of your repository.

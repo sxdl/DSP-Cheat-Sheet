@@ -43,3 +43,10 @@
 	- [z-transform theorems](z-Transform/z-transform-theorems.md)
 	- [Inverse z-transform](z-transform/inverse-z-transform.md)
 	- [Transfer function](z-transform/transfer-function.md)
+
+# LTI Discrete-time systems in the transform domain
+
+- [LTI-discrete-time-systems-in-the-transform-domain]()
+	- [Transfer function classification based on magnitude characteristics](LTI-discrete-time-systems-in-the-transform-domain/transfer-function-classification-based-on-magnitude-characteristics.md)
+	- [Transfer function classification based on phase characteristics](LTI-discrete-time-systems-in-the-transform-domain/transfer-function-classification-based-on-phase-characteristics.md)
+	- [Types of linear-phase FIR transfer functions](LTI-discrete-time-systems-in-the-transform-domain/types-of-linear-phase-FIR-transfer-functions.md)

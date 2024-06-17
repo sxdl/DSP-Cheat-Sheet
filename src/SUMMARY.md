@@ -35,3 +35,11 @@
 	- [Discrete Fourier Transform (DFT)](finite-length-discrete-transforms/discrete-fourier-transform.md)
 	- [Linear Convolution Using the DFT](finite-length-discrete-transforms/linear-convolution-using-the-DFT.md)
 
+# z-Transform
+
+- [z-Transform]()
+	- [Definition of z-transform](z-transform/definition-of-z-transform.md)
+	- [Rational z-transform](z-transform/rational-z-transform.md)
+	- [z-transform theorems](z-Transform/z-transform-theorems.md)
+	- [Inverse z-transform](z-transform/inverse-z-transform.md)
+	- [Transfer function](z-transform/transfer-function.md)

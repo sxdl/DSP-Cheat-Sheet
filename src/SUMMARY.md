@@ -27,3 +27,11 @@
 	- [LTI discrete-time systems](discrete-time-systems/LTI-discrete-time-systems.md)
 	- [Interconnection schemes]()
 	- [Phase and group delay](discrete-time-systems/phase-and-group-delay.md)
+
+# Finite-Length Discrete Transforms
+
+- [Finite-Length Discrete Transforms]()
+	- [Orthogonal Transforms]()
+	- [Discrete Fourier Transform (DFT)](finite-length-discrete-transforms/discrete-fourier-transform.md)
+	- [Linear Convolution Using the DFT](finite-length-discrete-transforms/linear-convolution-using-the-DFT.md)
+
